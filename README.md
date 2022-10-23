@@ -1,2 +1,2 @@
-# HW-AQACI
-[![Build status](https://ci.appveyor.com/api/projects/status/fwkn88tgtw0x4f7d/branch/master?svg=true)](https://ci.appveyor.com/project/JPanf/hw-aqaci/branch/master)
+# HW-AQA-PostmanEcho
+[![Build status](https://ci.appveyor.com/api/projects/status/1qq5dds0koo7gv4u/branch/main?svg=true)](https://ci.appveyor.com/project/JPanf/hw-aqa-postmanecho/branch/main)
